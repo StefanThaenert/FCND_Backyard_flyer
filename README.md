@@ -24,8 +24,10 @@ git clone https://github.com/StefanThaenert/FCND_Backyard_flyer.git
 By running backyard_flyer.py you may run the code.
 At the top of backyard_flyer.py you may play around with these 3 parameters:
 
-hover=1         # time to hover in [s] in certain position
-corner = 10.0   # distance in [m] to corner of square
-height = 3.5    # altitude in [m] for flying
+hover=1         (time to hover in [s] in certain position)
+
+corner = 10.0   (distance in [m] to corner of square)
+
+height = 3.5    (altitude in [m] for flying)
 
 So have some fun trying it.
